@@ -3,9 +3,12 @@
 1- Change path inside application.yml to your preference.
 		path: "D:\\temp\\" 
  
-2-  As file will be generator inside temp folder.
-3- As Swagger has been integrated, can be used to work aroun.
-4- 
+2- Files will be generator inside temp folder.
+
+3- Swagger has been integrated, can be used.
+	http://localhost:8080/swagger-ui.html#/
+
+
  #numberGenerator/api/generate To generate taskid
  response will be 
 	 {
@@ -21,3 +24,8 @@
 	- file not available
 	- writting is in progress
 	- some default scenario too.
+	
+	
+	
+Application will be hosted on
+   http://localhost:8080/swagger-ui.html#/
